@@ -3,7 +3,9 @@ Example
 ===================
 
 from daa.admin import AutoModelAdmin
+
 from django.db.models import Q
+
 from django.utils.html import format_html
 
 class OwnershipModelAdmin(AutoModelAdmin):
