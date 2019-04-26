@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "django-admin-auto",
-    version = "0.1.0",
+    version = "0.1.1",
     keywords = ("pip", "django", "admin"),
     description = "To automate the Django Admin displaying.",
     long_description = open('README.rst').read(),
